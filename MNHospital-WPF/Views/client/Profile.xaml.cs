@@ -37,30 +37,41 @@ namespace MNHospital_WPF.Views.client
 				var benhnhan = context.Benhnhans
 					.FirstOrDefault(b => b.Username == _loggedInUser.Username);
 
-				if (benhnhan != null)
+				if (benhnhan == null)
 				{
-					txtFullName.Text = benhnhan.Name;
-					txtCd.Text = benhnhan.Cccd;
-					txtDob.Text = benhnhan.Dob?.ToString("dd/MM/yyyy") ?? "";
-					txtAddress.Text = benhnhan.Address;
-					txtBaohiem.Text = benhnhan.Baohiem;
+					// Tạo bản ghi mới nếu chưa có
+					benhnhan = new Benhnhan
+					{
+						Username = _loggedInUser.Username,
+						Name = null,
+						Cccd = null,
+						Dob = null,
+						Address = null,
+						Baohiem = null,
+						Gender = null
+					};
+					context.Benhnhans.Add(benhnhan);
+					context.SaveChanges();
+				}
 
-					if (benhnhan.Gender == "Male")
-					{
-						rbtnMale.IsChecked = true;
-					}
-					else if (benhnhan.Gender == "Female")
-					{
-						rbtnFemale.IsChecked = true;
-					}
-					else if (benhnhan.Gender == "")
-					{
-						rbtnOther.IsChecked = true;
-					}
+				// Load dữ liệu vào form
+				txtFullName.Text = benhnhan.Name ?? "";
+				txtCd.Text = benhnhan.Cccd ?? "";
+				txtDob.Text = benhnhan.Dob?.ToString("dd/MM/yyyy") ?? "";
+				txtAddress.Text = benhnhan.Address ?? "";
+				txtBaohiem.Text = benhnhan.Baohiem ?? "";
+
+				if (benhnhan.Gender == "Male")
+				{
+					rbtnMale.IsChecked = true;
+				}
+				else if (benhnhan.Gender == "Female")
+				{
+					rbtnFemale.IsChecked = true;
 				}
 				else
 				{
-					MessageBox.Show("Không tìm thấy thông tin bệnh nhân.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+					rbtnOther.IsChecked = true;
 				}
 			}
 		}
@@ -71,38 +82,59 @@ namespace MNHospital_WPF.Views.client
                 // Lấy bệnh nhân từ cơ sở dữ liệu
                 var benhnhan = context.Benhnhans.FirstOrDefault(b => b.Username == _loggedInUser.Username);
 
-                if (benhnhan != null)
+                if (benhnhan == null)
                 {
-                    // Cập nhật thông tin bệnh nhân
-                    benhnhan.Name = txtFullName.Text;
-                    benhnhan.Cccd = txtCd.Text;
-                    benhnhan.Dob = DateOnly.Parse(txtDob.Text);
-                    benhnhan.Address = txtAddress.Text;
-                    benhnhan.Baohiem = txtBaohiem.Text;
+                    // Tạo bản ghi mới nếu chưa có
+                    benhnhan = new Benhnhan
+                    {
+                        Username = _loggedInUser.Username
+                    };
+                    context.Benhnhans.Add(benhnhan);
+                }
 
-                    // Cập nhật giới tính
-                    if (rbtnMale.IsChecked == true)
+                // Cập nhật thông tin bệnh nhân
+                benhnhan.Name = string.IsNullOrWhiteSpace(txtFullName.Text) ? null : txtFullName.Text;
+                benhnhan.Cccd = string.IsNullOrWhiteSpace(txtCd.Text) ? null : txtCd.Text;
+                
+                // Xử lý ngày sinh
+                if (!string.IsNullOrWhiteSpace(txtDob.Text))
+                {
+                    if (DateOnly.TryParse(txtDob.Text, out DateOnly dob))
                     {
-                        benhnhan.Gender = "Male";
-                    }
-                    else if (rbtnFemale.IsChecked == true)
-                    {
-                        benhnhan.Gender = "Female";
+                        benhnhan.Dob = dob;
                     }
                     else
                     {
-                        benhnhan.Gender = "Other";
+                        MessageBox.Show("Định dạng ngày sinh không đúng. Vui lòng nhập theo định dạng dd/MM/yyyy.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                        return;
                     }
-
-                    // Lưu thay đổi vào cơ sở dữ liệu
-                    context.SaveChanges();
-
-                    MessageBox.Show("Cập nhật hồ sơ thành công.", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
                 else
                 {
-                    MessageBox.Show("Không tìm thấy bệnh nhân để cập nhật.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    benhnhan.Dob = null;
                 }
+
+                benhnhan.Address = string.IsNullOrWhiteSpace(txtAddress.Text) ? null : txtAddress.Text;
+                benhnhan.Baohiem = string.IsNullOrWhiteSpace(txtBaohiem.Text) ? null : txtBaohiem.Text;
+
+                // Cập nhật giới tính
+                if (rbtnMale.IsChecked == true)
+                {
+                    benhnhan.Gender = "Male";
+                }
+                else if (rbtnFemale.IsChecked == true)
+                {
+                    benhnhan.Gender = "Female";
+                }
+                else
+                {
+                    benhnhan.Gender = "Other";
+                }
+
+                // Lưu thay đổi vào cơ sở dữ liệu
+                context.SaveChanges();
+
+                MessageBox.Show("Cập nhật hồ sơ thành công.", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
 
