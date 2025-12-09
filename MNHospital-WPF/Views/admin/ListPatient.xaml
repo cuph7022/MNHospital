@@ -1,0 +1,53 @@
+﻿<Window x:Class="MNHospital_WPF.Views.admin.ListPatient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MNHospital_WPF.Views.admin"
+        mc:Ignorable="d"
+        Title="ListPatient" Height="450" Width="800">
+    <Grid>
+        <!-- Header -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header with Title -->
+        <Grid Background="#FF2C3E50" Grid.Row="0">
+            <TextBlock Text="Danh sách bệnh nhân" Foreground="White" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Grid>
+
+        <!-- Content -->
+        <Grid Grid.Row="1" Margin="10">
+            <DataGrid x:Name="AppointmentDataGrid" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" 
+                   >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Tên Bệnh Nhân" Binding="{Binding BenhnhanName}" Width="*"/>
+                    <DataGridTextColumn Header="Ngày Khám" Binding="{Binding Ngaykham}" Width="*"/>
+                    <DataGridTextColumn Header="Giờ Khám" Binding="{Binding Giokham}" Width="*"/>
+                    <DataGridTextColumn Header="Tên Dịch Vụ" Binding="{Binding ServiceName}" Width="*"/>
+                    <!-- Action Column with Button -->
+                    <DataGridTemplateColumn Header="Chuẩn đoán bệnh" Width="150">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="btnUpdate" Content="Chuẩn đoán" Click="UpdateStatus_Click" Tag="{Binding BenhId}">
+                                    <Button.Style>
+                                        <Style TargetType="Button">
+                                            <Setter Property="IsEnabled" Value="True"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding Enable}" Value="false">
+                                                    <Setter Property="IsEnabled" Value="False"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

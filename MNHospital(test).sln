@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNHospital-WPF", "MNHospital-WPF\MNHospital-WPF.csproj", "{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317A40C3-57B2-4ABC-ACBA-78F8E3C4B409}
+	EndGlobalSection
+EndGlobal
