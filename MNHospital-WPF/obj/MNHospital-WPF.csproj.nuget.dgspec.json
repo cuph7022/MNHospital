@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital-WPF\\MNHospital-WPF.csproj": {}
+    "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\MNHospital-WPF.csproj": {}
   },
   "projects": {
-    "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital-WPF\\MNHospital-WPF.csproj": {
+    "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\MNHospital-WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital-WPF\\MNHospital-WPF.csproj",
+        "projectUniqueName": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\MNHospital-WPF.csproj",
         "projectName": "MNHospital-WPF",
-        "projectPath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital-WPF\\MNHospital-WPF.csproj",
+        "projectPath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\MNHospital-WPF.csproj",
         "packagesPath": "C:\\Users\\default.LAPTOP-CBR8QURK\\.nuget\\packages\\",
-        "outputPath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital-WPF\\obj\\",
+        "outputPath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -76,6 +76,7 @@ namespace MNHospital_WPF.Views
 				txtUserName.Visibility = Visibility.Collapsed;
 				btnLogout.Visibility = Visibility.Collapsed;
 				btnLogin.Visibility = Visibility.Visible;
+				btnUpdatePassword.Visibility = Visibility.Collapsed;
 
 			
 				btnManageAppointments.Visibility = Visibility.Collapsed;

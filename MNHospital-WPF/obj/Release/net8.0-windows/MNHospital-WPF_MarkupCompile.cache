@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\MNHospital-WPF-20250325T190627Z-001\MNHospital-WPF\obj\Release\net8.0-windows\
+E:\MNHospital-WPF-20250325T190627Z-001(test)\MNHospital\MNHospital-WPF\obj\Release\net8.0-windows\
 MNHospital_WPF
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-E:\MNHospital-WPF-20250325T190627Z-001\MNHospital-WPF\App.xaml
-11-903029342
+E:\MNHospital-WPF-20250325T190627Z-001(test)\MNHospital\MNHospital-WPF\App.xaml
+12-1209649329
 
-29-314435873
+30879983713
 244-769206582
-Views\admin\AddResult.xaml;Views\admin\ListPatient.xaml;Views\admin\ManagerAppoiment.xaml;Views\admin\ProfileDoctor.xaml;Views\admin\UpdateStatusDialog.xaml;Views\client\Appointment.xaml;Views\client\History.xaml;Views\client\Profile.xaml;Views\Home.xaml;Views\Login.xaml;Views\Register.xaml;
+Views\admin\AddResult.xaml;Views\admin\ListPatient.xaml;Views\admin\ManagerAppoiment.xaml;Views\admin\ProfileDoctor.xaml;Views\admin\UpdateStatusDialog.xaml;Views\client\Appointment.xaml;Views\client\History.xaml;Views\client\Profile.xaml;Views\client\UpdatePasswordWindow.xaml;Views\Home.xaml;Views\Login.xaml;Views\Register.xaml;
 
 True
 

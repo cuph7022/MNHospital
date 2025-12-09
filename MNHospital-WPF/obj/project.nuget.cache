@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKTbyaWkAK0=",
+  "dgSpecHash": "1zGIVofISfY=",
   "success": true,
-  "projectFilePath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital-WPF\\MNHospital-WPF.csproj",
+  "projectFilePath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\MNHospital-WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\default.LAPTOP-CBR8QURK\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-CBR8QURK\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

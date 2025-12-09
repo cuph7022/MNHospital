@@ -76,7 +76,7 @@ namespace MNHospital_WPF.Views.client {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MNHospital-WPF;component/views/client/updatepasswordwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MNHospital-WPF;V1.0.0.0;component/views/client/updatepasswordwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\client\UpdatePasswordWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

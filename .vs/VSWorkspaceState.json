@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MNHospital-WPF",
+    "\\MNHospital-WPF\\Models",
+    "\\MNHospital-WPF\\Views"
   ],
-  "SelectedNode": "\\MNHospital.sln",
+  "SelectedNode": "\\MNHospital(test).sln",
   "PreviewInSolutionExplorer": false
 }
