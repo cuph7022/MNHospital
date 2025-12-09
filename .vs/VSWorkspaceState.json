@@ -3,8 +3,9 @@
     "",
     "\\MNHospital-WPF",
     "\\MNHospital-WPF\\Models",
-    "\\MNHospital-WPF\\Views"
+    "\\MNHospital-WPF\\Views",
+    "\\MNHospital-WPF\\Views\\admin"
   ],
-  "SelectedNode": "\\MNHospital(test).sln",
+  "SelectedNode": "\\MNHospital-WPF\\Views\\admin\\ProfileDoctor.xaml",
   "PreviewInSolutionExplorer": false
 }

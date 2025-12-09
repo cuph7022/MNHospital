@@ -89,10 +89,12 @@ namespace MNHospital_WPF.Views
 			MessageBoxResult result = MessageBox.Show("Bạn có chắc chắn muốn đăng xuất?", "Xác nhận", MessageBoxButton.YesNo, MessageBoxImage.Question);
 			if (result == MessageBoxResult.Yes)
 			{
-			
 				_loggedInUser = null;
-				UpdateLoginState();
-
+				
+				// Chuyển về trang login
+				Login loginWindow = new Login();
+				loginWindow.Show();
+				this.Close();
 			}
 		}
 

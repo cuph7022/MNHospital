@@ -39,9 +39,15 @@ namespace MNHospital_WPF.Views.client
 
 				if (benhnhan == null)
 				{
+					// Tìm Id lớn nhất và tăng lên 1
+					int maxId = context.Benhnhans.Any() 
+						? context.Benhnhans.Max(b => b.Id) 
+						: 0;
+					
 					// Tạo bản ghi mới nếu chưa có
 					benhnhan = new Benhnhan
 					{
+						Id = maxId + 1,
 						Username = _loggedInUser.Username,
 						Name = null,
 						Cccd = null,
@@ -84,9 +90,15 @@ namespace MNHospital_WPF.Views.client
 
                 if (benhnhan == null)
                 {
+                    // Tìm Id lớn nhất và tăng lên 1
+                    int maxId = context.Benhnhans.Any() 
+                        ? context.Benhnhans.Max(b => b.Id) 
+                        : 0;
+                    
                     // Tạo bản ghi mới nếu chưa có
                     benhnhan = new Benhnhan
                     {
+                        Id = maxId + 1,
                         Username = _loggedInUser.Username
                     };
                     context.Benhnhans.Add(benhnhan);
