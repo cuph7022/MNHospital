@@ -21,9 +21,9 @@ namespace MNHospital_WPF.Models
 
         public int? Khoa { get; set; }
 
-        public string? Phone { get; set; } // Số điện thoại bác sĩ
+        public string? Phone { get; set; } 
 
-        public string? Specialization { get; set; } // Chuyên môn bác sĩ
+        public string? Specialization { get; set; } 
 
         public virtual ICollection<Ketqua> Ketquas { get; set; } = new List<Ketqua>();
 

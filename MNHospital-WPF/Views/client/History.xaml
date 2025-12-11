@@ -26,7 +26,6 @@
                     <DataGridTextColumn Header="Thời Gian Hẹn" Binding="{Binding AppointmentTime}" Width="*"/>
                     <DataGridTextColumn Header="Tên Bác Sĩ" Binding="{Binding DoctorName}" Width="150"/>
                     <DataGridTextColumn Header="Dịch Vụ Khám" Binding="{Binding ServiceName}" Width="100"/>
-                    <DataGridTextColumn Header="Giá" Binding="{Binding Price}" Width="*"/>
                     <DataGridTextColumn Header="Chuẩn đoán" Binding="{Binding Diagnosis}" Width="*"/>
                     <DataGridTextColumn Header="Bệnh" Binding="{Binding Disease}" Width="*"/>
                     <DataGridTextColumn Header="Kết Quả" Binding="{Binding KQ}" Width="*"/>

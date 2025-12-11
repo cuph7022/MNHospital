@@ -55,7 +55,6 @@ namespace MNHospital_WPF.Views.client
                                        ServiceName = g.Key.ServiceName,
                                        Diagnosis = g.First().k.Chuandoan,
                                        Disease = g.First().b.Name,
-                                       Price = g.First().kh.Price,
                                        KQ = g.First().k.Ketqua1,
                                        AppointmentTime = g.Key.AppointmentTime
                                    }).ToList();

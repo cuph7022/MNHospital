@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MNHospital_WPF.Views.client"
         mc:Ignorable="d"
-      Title="Thông Tin Cá Nhân" Height="500" Width="600">
+      Title="Thông Tin Cá Nhân" Height="601" Width="643">
     <Grid Background="#FF2980B9" Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>

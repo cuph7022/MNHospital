@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\client\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\client\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\client\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\client\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\mnhospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\mnhospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\khoakham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\khoakham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\kham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\kham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\datlich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\datlich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\benh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\benh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\bacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\bacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\modelsviews\\managerappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\modelsviews\\managerappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\modelsviews\\manageraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\modelsviews\\manageraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,20 +79,8 @@
       "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\admin\\addresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\admin\\addresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\views\\admin\\profiledoctor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -39,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\modelsviews\\manageraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\modelsviews\\manageraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|e:\\mnhospital-wpf-20250325t190627z-001(test)\\mnhospital\\mnhospital-wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ECC80DFD-DE9B-45F0-AC1B-F39036E1A975}|MNHospital-WPF\\MNHospital-WPF.csproj|solutionrelative:mnhospital-wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -54,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,31 +186,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "History.xaml.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\client\\History.xaml.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\client\\History.xaml.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\client\\History.xaml.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Views\\client\\History.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwDkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:26:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "History.xaml",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\client\\History.xaml",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\client\\History.xaml",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\client\\History.xaml",
+              "RelativeToolTip": "MNHospital-WPF\\Views\\client\\History.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T08:25:49.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Role.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Role.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:14:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MnHospitalContext.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\MnHospitalContext.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\MnHospitalContext.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\MnHospitalContext.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\MnHospitalContext.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAIwK4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:14:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kham.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Kham.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Kham.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Kham.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Kham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:13:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ketqua.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Ketqua.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Ketqua.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Ketqua.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Ketqua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:13:58.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hoso.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Hoso.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Hoso.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Hoso.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Hoso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:13:55.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Datlich.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Datlich.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Datlich.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Datlich.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Datlich.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:34:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Benhnhan.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Benhnhan.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Benhnhan.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Benhnhan.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Benhnhan.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:13:38.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Benh.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Benh.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Benh.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Benh.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Benh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:13:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerAppointment.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\ModelsViews\\ManagerAppointment.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\ModelsViews\\ManagerAppointment.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\ModelsViews\\ManagerAppointment.cs",
+              "RelativeToolTip": "MNHospital-WPF\\ModelsViews\\ManagerAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:12:50.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bacsi.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Bacsi.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Bacsi.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Bacsi.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Bacsi.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:35:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Khoakham.cs",
+              "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Khoakham.cs",
+              "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Khoakham.cs",
+              "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Khoakham.cs",
+              "RelativeToolTip": "MNHospital-WPF\\Models\\Khoakham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:44:31.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Register.xaml",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Register.xaml",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\Register.xaml",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Register.xaml",
               "RelativeToolTip": "MNHospital-WPF\\Views\\Register.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-09T20:41:51.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T20:41:51.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "AddResult.xaml",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\admin\\AddResult.xaml",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\admin\\AddResult.xaml",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\admin\\AddResult.xaml",
               "RelativeToolTip": "MNHospital-WPF\\Views\\admin\\AddResult.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-09T20:38:08.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T20:38:08.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.xaml",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Login.xaml",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\Login.xaml",
@@ -170,69 +388,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Home.xaml.cs",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Home.xaml.cs",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\Home.xaml.cs",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Home.xaml.cs",
               "RelativeToolTip": "MNHospital-WPF\\Views\\Home.xaml.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T18:02:49.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Account.cs",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Account.cs",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Models\\Account.cs",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Models\\Account.cs",
               "RelativeToolTip": "MNHospital-WPF\\Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T17:58:46.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ManagerAccount.cs",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\ModelsViews\\ManagerAccount.cs",
               "RelativeDocumentMoniker": "MNHospital-WPF\\ModelsViews\\ManagerAccount.cs",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\ModelsViews\\ManagerAccount.cs",
               "RelativeToolTip": "MNHospital-WPF\\ModelsViews\\ManagerAccount.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T06:45:14.505Z"
+              "WhenOpened": "2025-12-04T06:45:14.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "ProfileDoctor.xaml",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\admin\\ProfileDoctor.xaml",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\admin\\ProfileDoctor.xaml",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\admin\\ProfileDoctor.xaml",
               "RelativeToolTip": "MNHospital-WPF\\Views\\admin\\ProfileDoctor.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-04T02:32:47.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:32:47.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "Home.xaml",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Home.xaml",
               "RelativeDocumentMoniker": "MNHospital-WPF\\Views\\Home.xaml",
               "ToolTip": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\Views\\Home.xaml",
               "RelativeToolTip": "MNHospital-WPF\\Views\\Home.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-04T02:31:47.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:31:47.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "App.xaml",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\App.xaml",
               "RelativeDocumentMoniker": "MNHospital-WPF\\App.xaml",
@@ -244,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "MNHospital-WPF\\AssemblyInfo.cs",
@@ -256,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\MNHospital-WPF-20250325T190627Z-001(test)\\MNHospital\\MNHospital-WPF\\appsettings.json",
               "RelativeDocumentMoniker": "MNHospital-WPF\\appsettings.json",
